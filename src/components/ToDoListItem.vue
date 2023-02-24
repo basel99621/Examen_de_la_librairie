@@ -15,7 +15,7 @@ const augmenter = () => {
   <ul>
     <li>
       <div class="book">
-        <h2>Titire : {{ livre._titre }}</h2>
+        <h2>Titre : {{ livre._titre }}</h2>
         <h2>La quantité : {{ livre._qtestock }}</h2>
         <h2>Le prix : {{ livre._prix }} €</h2>
       </div>
